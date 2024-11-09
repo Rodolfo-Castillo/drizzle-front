@@ -9,13 +9,7 @@ Drizzle ORM it's a lightweight, TypeScript-based Object-Relational Mapping (ORM)
 -   Using VueJs.
 -   Pinia to store.
 -   Quasar as design framework.
-
-## Back Features
-
--   Made with FastifyJs.
--   Using JWT for tokens auth.
--   Using Drizzle for save in SupaBase.
--   Using Swagger to documentation.
+-   TypeScript.
 
 To view the example, please enter
 http://vuetest1.s3-website.us-east-2.amazonaws.com
