@@ -1,0 +1,5 @@
+node_modules
+.pnpm-store/
+Dockerfile.*
+docker-compose.*
+pnpm-lock.yaml

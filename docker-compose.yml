@@ -1,0 +1,12 @@
+version: "3.5"
+services:
+    protector-gui:
+        build:
+            context: .
+            dockerfile: Dockerfile.production
+        restart: unless-stopped
+        container_name: protector-gui
+        env_file:
+            - .env
+        ports:
+            - "4099:80"

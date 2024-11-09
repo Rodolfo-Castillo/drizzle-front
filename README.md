@@ -1,5 +1,24 @@
-# Vue 3 + TypeScript + Vite
+# Drizzle ORM
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## _Example Crud_
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Drizzle ORM it's a lightweight, TypeScript-based Object-Relational Mapping (ORM) library used for interacting with databases. It helps developers work with databases using JavaScript/TypeScript code rather than writing raw SQL queries.
+
+## Front Features
+
+-   Using VueJs.
+-   Pinia to store.
+-   Quasar as design framework.
+
+## Back Features
+
+-   Made with FastifyJs.
+-   Using JWT for tokens auth.
+-   Using Drizzle for save in SupaBase.
+-   Using Swagger to documentation.
+
+To view the example, please enter
+http://vuetest1.s3-website.us-east-2.amazonaws.com
+
+For API documentation, go to
+https://drizzle-back.fly.dev/swagger
